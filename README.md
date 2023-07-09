@@ -94,7 +94,7 @@ The server will be running at `http://localhost:3001`. You can test the API endp
 ## Demo
 
 The following video demo the application being used from the command line:
-[![demo video on v2](./assets/video-thumbnail.png)](https://youtu.be/ryJ6cZsPmUU)
+[![demo video on v2](./assets/video-thumbnail.png)](https://youtu.be/mpTVedbQKSE)
 
 ## Contributing
 
