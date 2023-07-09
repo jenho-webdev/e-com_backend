@@ -23,7 +23,7 @@ Product.init(
       type: DataTypes.DECIMAL,
       allowNull: false,
       validate: {
-        type: DataTypes.DECIMAL,
+        isDecimal: true,
       },
     },
     stock: {
@@ -39,7 +39,7 @@ Product.init(
       allowNull: true,
       references: {
         model: "category",
-        key: id,
+        key: "id",
       },
     },
   },
